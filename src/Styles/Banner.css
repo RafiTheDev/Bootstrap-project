@@ -1,0 +1,31 @@
+.banner-slide-1{
+    background-image: url(https://th.bing.com/th/id/OIP.g3xcOGZJ9u85ZzBzGU1yPgHaDT?rs=1&pid=ImgDetMain);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100%;
+    height: 50vh;
+
+
+}
+
+.banner-slide-2{
+background-image: url(https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/busting%20mobile%20shopping%20myths/busting%20mobile%201536x1536_original.jpg?cq=50&mw=767&car=16:9&cpy=Center);    
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover ;
+    width: 100%;
+    height: 50vh;
+
+
+}
+
+.banner-slide-3{
+    background-image: url(https://www.mckinsey.com/~/media/mckinsey/industries/retail/our%20insights/busting%20mobile%20shopping%20myths/busting%20mobile%201536x1536_original.jpg?cq=50&mw=767&car=16:9&cpy=Center);    background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover ;
+        width: 100%;
+        height: 50vh;
+    
+    
+    }
